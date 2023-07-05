@@ -6,10 +6,6 @@ public class WordData{
   String currentWord = "";
   ArrayList<String> words;
   
-/*read all in - add to arraylist
-array choose random
-write out file without chosen word
-  */
   public WordData() {
     words = new ArrayList<String>();
   }

@@ -101,13 +101,7 @@ private boolean letterInOtherPlace(int j){
 	return -1;
 	}
   /*
-Selection Sort
-1. Initialize a variable n to the size of the array. 
-2. Find the largest among the first n elements.
-3. Make it swap places with the n-th element. 
-4. Decrement n by 1.
-5. Repeat steps2-4 while n ≥ 2.
-  */
+
   
 public void sort(String[] dictA)
   {
